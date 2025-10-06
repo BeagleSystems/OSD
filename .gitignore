@@ -1,0 +1,12 @@
+# Python cache / virtualenv
+__pycache__/
+*.py[cod]
+*.egg-info/
+venv/
+.env
+*.log
+
+# OS / editor files
+.DS_Store
+*.swp
+*~
